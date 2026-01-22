@@ -6,7 +6,7 @@ Cybersecurity enthusiast solving real-world problems through hands-on projects i
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/KvnSecurity/threat-hunting-scenario-tor)**
 
 <hr/>
 
