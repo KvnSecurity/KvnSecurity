@@ -17,7 +17,9 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 # STIG: WN11-CC-000391
+    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    
+    # STIG: WN11-CC-000391
 # Disable Internet Explorer 11 as a standalone browser
 
 $RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Internet Explorer\Main"
