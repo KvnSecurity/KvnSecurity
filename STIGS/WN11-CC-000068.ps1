@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that Windows 11 STIG requirement to configure the Application event log maximum size to 32,768 KB (32 MB) or greater.
+    This PowerShell script ensures that Windows 11 is configured to enable Remote host allows delegation of non-exportable credentials.
 
 .NOTES
     Author          : Kavan Singh
